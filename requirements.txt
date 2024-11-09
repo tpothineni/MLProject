@@ -2,7 +2,7 @@ apex==0.9.10dev
 torch==1.11.0
 dataclasses==0.6
 GPUtil==1.4.0
-scikit_learn==0.23.2
+scikit_learn==1.5.2
 scipy==1.13.0
 numpy==2.1.3
 spacy==3.8.2
