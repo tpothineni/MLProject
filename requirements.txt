@@ -1,6 +1,6 @@
 apex==0.9.10dev
 torch==1.11.0
-knockknock==0.1.8.1
+knockknock==0.1.7
 dataclasses==0.8
 GPUtil==1.4.0
 scikit_learn==0.23.2
