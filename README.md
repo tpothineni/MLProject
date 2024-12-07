@@ -9,3 +9,4 @@ Contributions:
 https://wandb.ai/agetzow-suny-binghamton/YOLOv7?nw=nwuseragetzow
 <br />
 https://wandb.ai/pothi4269-binghamton-university/YOLOR?nw=nwuserpothi4269
+https://wandb.ai/agetzow-suny-binghamton/YOLOv7?nw=5wu3olgyt4i
