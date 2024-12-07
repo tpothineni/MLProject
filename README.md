@@ -7,4 +7,5 @@ Contributions:
 <br />Andrew Getzow: Researched datasets, performed 2 epochs of training and testing of the model on Pascal VOC, produceded example images directly comparing performance, and wrote most of the second half of the paper.
 
 https://wandb.ai/agetzow-suny-binghamton/YOLOv7?nw=nwuseragetzow
+<br />
 https://wandb.ai/pothi4269-binghamton-university/YOLOR?nw=nwuserpothi4269
