@@ -1,9 +1,9 @@
 Teammates:
 <br />Tarun Kumar Pothineni - Github: tpothineni
-Andrew Getzow - Github: andygetzow
+<br />Andrew Getzow - Github: andygetzow
 
 Contributions:
-Tarun Kumar Pothineni: Set up the github and base of the python notebooks, performed testing of the original model to reproduce results with pre-trained weights, and wrote most of the first half of the paper.
-Andrew Getzow: Researched datasets, performed training and testing of the model on Pascal VOC, produceded example images directly comparing performance, and wrote most of the second half of the paper.
+<br />Tarun Kumar Pothineni: Set up the github and base of the python notebooks, performed testing of the original model to reproduce results with pre-trained weights, and wrote most of the first half of the paper.
+<br />Andrew Getzow: Researched datasets, performed training and testing of the model on Pascal VOC, produceded example images directly comparing performance, and wrote most of the second half of the paper.
 
 https://wandb.ai/agetzow-suny-binghamton/YOLOv7?nw=nwuseragetzow
