@@ -1,5 +1,5 @@
 Teammates:
-Tarun Kumar Pothineni - Github: tpothineni
+<br />Tarun Kumar Pothineni - Github: tpothineni
 Andrew Getzow - Github: andygetzow
 
 Contributions:
